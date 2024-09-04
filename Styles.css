@@ -1,0 +1,20 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#animatedBox {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    margin: 20px auto;
+}
+body
+{
+}
